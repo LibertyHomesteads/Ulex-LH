@@ -6,6 +6,7 @@
   * Ensuring that Ulex's procedural rules can be enforced in such a community 
   * Checking the legal references for code that may conflict with Liberty Homestead's vision and constitution 
   * Adding changes to the original Ulex project that improve usability 
+  * Clarifying Ulex-LH's role in reference to exterior and competing legal systems and enforcement bodies
 
 ## Introduction to [Version 1.2](1.2/) 
 
