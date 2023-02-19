@@ -1,5 +1,16 @@
 # Change Log
 
+## Introduction to Ulex-LH [Version 1.3](1.2/) 
+
+  Our aim with Ulex-LH is to make changes that would allow Ulex to be implemented in the Liberty Homesteads community. Emphasis will be on the following items: 
+  * Ensuring that Ulex's procedural rules can be enforced in such a community 
+  * Checking the legal references for code that may conflict with Liberty Homestead's vision and constitution 
+  * Adding changes to the original Ulex project that improve usability 
+
+## Introduction to [Version 1.2](1.2/) 
+
+No introduction for Version 1.2 was provided in this changelog by the original creators before this project was forked to create Ulex-LH. 
+
 ## Introduction to [Version 1.1](1.1/)
 
 Field tests of Ulex 1.0, while largely positive, suggested that few edits might improve
